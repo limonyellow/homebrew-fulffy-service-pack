@@ -2,7 +2,7 @@ class FluffyServicePack < Formula
   desc "This service pack will help you relax with some fulffy sounds."
   homepage "https://github.com/limonyellow/fluffy-service-pack"
   url "https://github.com/limonyellow/fluffy-service-pack/archive/refs/tags/v0.0.18.tar.gz"
-  sha256 "55a3a1156b6c161772562312856061bb8ea1c35fccdb715cdb7ea1c608558139"
+  sha256 "6a928f60b6c45b78c977e9eb65f30fc22c1b75a073eba3a4cbc72b7e3a2f34d3"
   license "MIT"
 
   def install
